@@ -99,8 +99,8 @@ html{
 	line-height: 60px;
 }
 .home-bg{
-	width: 100%;
-	height: auto;
+	width: auto;
+	height: 100%;
 	text-align: center;
 	position: absolute;
 	bottom: 100px;
